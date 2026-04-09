@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🔍 Financial Fraud Detection — Case Study
 
@@ -260,4 +260,4 @@ jupyter notebook Fraud_Detection_Case_Study.ipynb
 *Made with ❤️ by [Manwikkk](https://github.com/Manwikkk)*
 
 </div>
-]]>
+
