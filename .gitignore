@@ -1,0 +1,15 @@
+# Dataset (too large to include)
+Fraud.csv
+
+# Backup files
+*_BACKUP*
+
+# Task/Assignment files
+Task Details.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
